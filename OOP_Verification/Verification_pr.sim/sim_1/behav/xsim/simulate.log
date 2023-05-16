@@ -1,0 +1,17 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+START
+Put data = 40
+Put data = 7
+Put data = 45
+Put data = 26
+Put data = 50
+Put data = 37
+Put data = 43
+Put data = 41
+Put data = 46
+Put data = 41
+----------------------
+Retrieved data = 40
+Retrieved data = 7
+Retrieved data = 45

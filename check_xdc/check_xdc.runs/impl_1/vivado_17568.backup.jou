@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Apr 25 23:41:59 2023
+# Process ID: 17568
+# Current directory: C:/Vivado_project/JOB_projects/trash_projects/check_xdc/check_xdc.runs/impl_1
+# Command line: vivado.exe -log shell_check.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source shell_check.tcl -notrace
+# Log file: C:/Vivado_project/JOB_projects/trash_projects/check_xdc/check_xdc.runs/impl_1/shell_check.vdi
+# Journal file: C:/Vivado_project/JOB_projects/trash_projects/check_xdc/check_xdc.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source shell_check.tcl -notrace
